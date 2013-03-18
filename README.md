@@ -11,7 +11,7 @@ full story you can read the [preface](src/PREFACE.md). The tl;dr is that I'm
 a big beer drinker who travels a lot and this year had some amazing beer
 experiences. So I decided to write them down.
 
-Why Github?
+Why GitHub?
 -----------
 
 I'm planning to self publish this book when/if it's done, but I also wanted to 
@@ -22,7 +22,7 @@ core project.
 
 Many, many of the people I talk to in tech are into beer. For the book 
 I wanted to be able to incorporate interesting facts and background about the
-beers and breweries I talk about. My hope is that by using Github some of those
+beers and breweries I talk about. My hope is that by using GitHub some of those
 beer-savvy tech people who are interested in the book can help fact check, add 
 background, or correct typos. When you see an error, or have a suggestion where a 
 specific fact would help flesh out the book, I would apprecaite any pull requests.
