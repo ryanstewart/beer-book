@@ -1,0 +1,34 @@
+Table of Contents (work in progress)
+====================================
+
+- June
+    - Westvleteren, Belgium
+- July
+    - Chimay, Belgium
+    - Widmer Brewing, Portland
+    - The Bruery, California
+- August
+- September
+    - Four Peaks, Arizona
+- October
+    - Tokyo
+    - Hitachino Nest, Japan
+    - Sydney
+    - Red Oak Beer Boutique, Sydney
+    - Great American Beer Festival, Denver
+- November
+    - Black Raven, Washington
+    - Founders, Michigan
+    - Brewery Vivant, Michigan
+    - Hop Cat, Michigan
+- December
+    - Big Wood Festival Brouwers, Seattle
+    - Russian River, California
+    - Bear Republic, California
+    - Stone Vertical Epic
+    - Cigar City, Florida
+- January
+    - Island Brewing, California
+    - Redhook Brewing, Washington
+- February
+- March
